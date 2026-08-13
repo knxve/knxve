@@ -56,7 +56,7 @@
 
 <h3 data-importer="text" align="left">Other Stats:</h3>
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/71e988a5-d69b-4c4b-9cd0-385ac6785395/thumbnail">
+  <img src="https://api.boot.dev/v1/users/public/71e988a5-d69b-4c4b-9cd0-385ac6785395/thumbnail" width="450">
 </p>
 
 ###
