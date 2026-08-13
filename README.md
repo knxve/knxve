@@ -50,7 +50,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Kurt Reinhart from the Philippines<br><br>- kind of self-taught<br>- 📚 I'm currently learning DevOps from boot.dev</p>
+<p data-importer="text" align="left">I'm Kurt Reinhart from the Philippines<br><br>- 📚 I'm currently learning DevOps from boot.dev</p>
 
 ###
 
