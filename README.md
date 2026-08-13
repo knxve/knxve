@@ -63,7 +63,7 @@
 
 <p data-importer="text" align="left">Certificates:</p>
 <a href="https://www.boot.dev/certificates/34651c50-5c01-4a60-9560-1f2b0365da58">
-  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34651c50-5c01-4a60-9560-1f2b0365da58.jpeg?v=1786635218" alt="Boot.dev Introduction to Python Course certificate" width="450" />
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34651c50-5c01-4a60-9560-1f2b0365da58.jpeg?v=1786635218" alt="Boot.dev Introduction to Python Course certificate" width="300" />
 </a>
 
 ###
